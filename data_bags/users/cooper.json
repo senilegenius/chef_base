@@ -1,0 +1,13 @@
+{
+  "id": "cooper",
+  "groups": [ "cooper", "sysadmin" ],
+  "htpasswd": "{SHA}0W/oIXffrw/cQX91MkxaKMubFIU=",
+  "comment": "cooper",
+  "uid": "2002",
+  "shell": "\/bin\/bash",
+  "nagios": {
+    "pager": "",
+    "email": ""
+    },
+  "ssh_keys": [ "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDY6dODxMyZGWYloU6SucBD2kjMRrln9ZqlFRLoqNDlB2wM6Wo0URCDIE/z40LfE/JPhb97iiKMKZoKQ5iUtEIptsMhUwguQefgZp2vFTr8G9km3KWwSsU6aMgk/SIQqxH2X2wWWn/QPRyoYKspX0NSQyiZePunRei3r0Ju00hGB6smQ/DCMxZUkBKMJ3+GmwYbOixbw72mm+K11zoVvKXRRPsEjbIXyZxygeyULH2h0dZV4lTqU63Nd3QZ1u7ka3nefJdhjz0ME8boRJw5fd1bNWqWt2TE8cbf/ar13+jCAOsLz8XdRWmQ4sNcp89+RmN7MNQn+zPlS32muXkZXGT3 cooper@drexel.rackspace.corp" ]
+}
